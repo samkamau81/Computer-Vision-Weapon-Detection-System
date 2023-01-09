@@ -1,2 +1,4 @@
-# Computer-Vision-Weapon-Detection-System
-This system enables the establishment to register people using their faces. Will be used for attendance purposes and can be integrated into IoT systems like CCTV cameras to identify the location of a particular person.
+# Computer-Vision-Weapon-Detection-System 
+## Object Detection
+With increase in mugging in late 2022 within Juja township, I went ahead to create a simple but effective algorithm that will detect a weapon and alert Security agents of their sighting. This algorithm is to be integrated in CCTVs ,to detect Real Time. 
+
